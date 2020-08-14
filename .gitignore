@@ -105,3 +105,12 @@ venv.bak/
 
 # mac os
 __MACOSX/
+
+# pycharm
+.idea
+
+# pytorch checkpoints
+ckpts/
+
+# working directories
+work_dirs/
